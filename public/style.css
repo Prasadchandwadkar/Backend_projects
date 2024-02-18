@@ -1,0 +1,15 @@
+body {
+	background-color: rgb(246, 238, 238);
+}
+.content {
+	margin-top: 5%;
+
+	text-align: center;
+}
+.footer {
+	margin-top: 10%;
+	font-size: small;
+	opacity: 40%;
+
+	text-align: center;
+}
